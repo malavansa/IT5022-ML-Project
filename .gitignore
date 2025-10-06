@@ -14,3 +14,7 @@ references.txt
 
 learnings.ipynb
 
+# Ignore rough work folder
+playground/
+
+
